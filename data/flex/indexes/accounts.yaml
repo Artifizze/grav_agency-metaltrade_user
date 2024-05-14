@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1713738707
+count: 1
+index:
+  webmaster:
+    storage_key: webmaster
+    storage_timestamp: 1713738707
+    key: webmaster
+    email: webmaster@patuju.net

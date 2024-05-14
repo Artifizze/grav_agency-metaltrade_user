@@ -1,0 +1,11 @@
+state: enabled
+email: webmaster@patuju.net
+fullname: 'Moises Viera'
+title: Webmaster
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$f6DujLuYvxwG0O.5f74YmukSwnTgqv9kKmHAehWvtGL20Xh2N90vW

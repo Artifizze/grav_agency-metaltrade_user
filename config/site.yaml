@@ -1,0 +1,53 @@
+title: 'Calidad y Experiencia'
+default_lang: es
+author:
+  name: 'Moises Viera'
+  email: webmaster@patuju.net
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+links:
+  -
+    title: Productos
+    url: '#portfolio'
+  -
+    title: Nosotros
+    url: '#about'
+  -
+    title: Catalogos
+    url: '#team'
+  -
+    title: Contacto
+    url: '#contact'
+social:
+  -
+    title: facebook
+    url: 'https://www.facebook.com/Metaltradeltda'
+  -
+    title: whatsapp
+    url: 'https://wa.me/59170001255'
+address:
+  -
+    line: '3481 Melrose Place'
+  -
+    line: 'Beverly Hills, CA 90210'
+quicklinks:
+  -
+    title: 'Política de Privacidad'
+    url: '#'
+  -
+    title: 'Términos de Uso'
+    url: '#'
